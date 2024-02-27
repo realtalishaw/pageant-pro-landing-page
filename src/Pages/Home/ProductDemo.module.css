@@ -1,0 +1,23 @@
+section {
+    text-align: center;
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    padding: 15px 0 0;
+  }
+  
+  .box1 {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    transform-style: preserve-3d;
+  }
+  
+  .h-halfscreen {
+    height: 50vh;
+  }
